@@ -1,0 +1,58 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+.header{
+
+        background-color: #0f1056;
+        color: whitesmoke;
+        padding: 10px;
+}
+
+.Container, .sub-container{
+        
+        position: relative;
+        overflow: auto;
+}
+
+#par1{
+
+    line-height: 15px;
+}
+
+
+#navbar{
+        float: left;
+        width: 200px;
+        background-color: #c3e4f5;
+}
+
+.menuitem:hover{
+        background-color: #121471;
+        color: whitesmoke;
+}
+
+#caloosha{
+        margin: 0 210px;
+}
+
+#geeska{
+        color: whitesmoke;
+        width: 180px;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        padding: 10px;
+        background-color: #5a92b6;
+}
+
+#footer{
+    background-color: rgb(190, 190, 190);
+    text-align: center;
+    color: #121471;
+    padding: 10px;
+    line-height: 15px;
+
+}
